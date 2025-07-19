@@ -1,9 +1,9 @@
-#CODSOFT Internship Task 1
+## CODSOFT Internship Task 1
 
 A To-Do List Application developed using Python and Tkinter. This project helps users efficiently create, update, and track tasks using a simple GUI. It is beginner-friendly and focuses on basic Python concepts and GUI development.
 
 
-🔧 Project Features
+## 🔧 Project Features
 
 🎨 Stylish UI with clean layout
 
@@ -16,7 +16,7 @@ A To-Do List Application developed using Python and Tkinter. This project helps 
 🔁 Data persists between sessions
 
 
-🚀 How to Run
+## 🚀 How to Run
 
 1. Make sure Python is installed
 
